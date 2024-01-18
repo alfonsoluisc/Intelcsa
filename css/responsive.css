@@ -261,6 +261,7 @@
     .navigation.navbar-dark .navbar-toggler-icon {
         background: url(../images/menu_icon.png);
         background-repeat: no-repeat;
+        margin-top: -40px;
     }
     .d_none {
         display: none;
